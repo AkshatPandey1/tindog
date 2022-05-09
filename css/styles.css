@@ -179,3 +179,12 @@ p {
   padding: 0 10px;
   width: auto;
 }
+.card-title {
+  margin: auto;
+}
+
+.dog-pic {
+  height: 100px;
+  width: 100px;
+  border-radius: 100%;
+}
